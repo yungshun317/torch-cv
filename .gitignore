@@ -7,6 +7,8 @@ models/
 outputs/
 my_trainer/
 runs/
+Self-Driving-Car-3/
+vehicles-2/
 *.pt
 *.h5
 *.npy
