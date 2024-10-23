@@ -6,6 +6,8 @@ images/
 models/
 outputs/
 my_trainer/
+runs/
+*.pt
 *.h5
 *.npy
 MANIFEST
