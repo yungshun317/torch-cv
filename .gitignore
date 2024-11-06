@@ -9,6 +9,8 @@ my_trainer/
 runs/
 Self-Driving-Car-3/
 vehicles-2/
+Thin-Plate-Spline-Motion-Model/
+checkpoints/
 *.pt
 *.h5
 *.npy
